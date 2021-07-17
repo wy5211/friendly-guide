@@ -4,6 +4,10 @@
 
 # React 中的使用示例
 
+```bash
+npm i friendly-guide -S
+```
+
 ```tsx
 import React, { useRef, useEffect } from 'react';
 import { guide, close } from 'friendly-guide';
@@ -144,7 +148,7 @@ export default App;
 | onClickNext      | 点击下一步触发                       | Function       | 无             | 否                    |
 | onClickPrev      | 点击上一步触发                       | Function       | 无             | 否                    |
 | onClickClose     | 关闭触发                             | Function       | 无             | 否                    |
-| nextBtnColor     | 下一步的按钮颜色否                   | String         | #1890FF        | 否                    | -                  |
+| nextBtnColor     | 下一步的按钮颜色                     | String         | #1890FF        | 否                    | -                  |
 | prevBtnColor     | 上一步的按钮颜色                     | String         | #c4c6cc        | 否                    | -                  |
 | nextBtnText      | 下一步按钮文字                       | String         | 下一步         | 否                    |
 | prevBtnText      | 上一步按钮文字                       | String         | 上一步         | 否                    |
