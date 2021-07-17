@@ -1,6 +1,6 @@
 {
   "name": "friendly-guide",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "guide novice",
   "main": "dist/index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-const CONTAINER_ID = 'mask_guide_container';
+const CONTAINER_ID = 'fiendly_guide_container';
 
 function clear() {
   if (document.getElementById(CONTAINER_ID)) {

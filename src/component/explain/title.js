@@ -1,6 +1,6 @@
 import { clear } from '../../utils';
 
-const CONTAINER_EXPLAIN_CLASS = 'mask_guide_explain';
+const CONTAINER_EXPLAIN_CLASS = 'friendly_guide_explain';
 
 const createTitleClose = (option) => {
   const attr = {

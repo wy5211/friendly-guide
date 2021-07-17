@@ -1,5 +1,5 @@
-const CONTAINER_ID = 'mask_guide_container';
-const CONTAINER_CLASS = 'mask_guide_container';
+const CONTAINER_ID = 'friendly_guide_container';
+const CONTAINER_CLASS = 'friendly_guide_container';
 
 // 创建最外层容器
 function createContainer({ classWarp, onClickContainer }) {
