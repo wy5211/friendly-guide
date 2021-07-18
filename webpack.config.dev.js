@@ -9,9 +9,6 @@ module.exports = {
     library: 'friendlyGuide',
   },
   mode: 'development',
-  externals: {
-    jquery: '$',
-  },
   module: {
     rules: [
       {

@@ -9,7 +9,6 @@ module.exports = {
     library: 'friendlyGuide',
   },
   mode: 'production',
-  externals: {},
   module: {
     rules: [
       {
